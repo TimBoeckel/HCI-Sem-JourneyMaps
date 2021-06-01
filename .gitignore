@@ -285,7 +285,7 @@ TSWLatexianTemp*
 # Latex PDF
 LaTex/*.pdf
 
-.vscode/*
+*/.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
@@ -293,4 +293,4 @@ LaTex/*.pdf
 *.code-workspace
 
 # Local History for Visual Studio Code
-.history/
+*/.history/
