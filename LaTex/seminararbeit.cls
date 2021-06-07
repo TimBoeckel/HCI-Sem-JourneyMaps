@@ -28,10 +28,11 @@
 \ProcessOptions
 \LoadClass{article}
 
-\RequirePackage{graphics}
+\RequirePackage{graphicx}
 \RequirePackage{natbib}		%get all the fancy citation stuff
 
-\usepackage{times}			%use times as default font
+\usepackage{times}	
+%\usepackage{hyperref}		%use times as default font
 
 \ExecuteOptions{a4paper,12pt,oneside,onecolumn,final}
 \ProcessOptions
