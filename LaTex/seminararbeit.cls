@@ -32,6 +32,7 @@
 \RequirePackage{natbib}		%get all the fancy citation stuff
 
 \usepackage{times}	
+\usepackage{float}
 %\usepackage{hyperref}		%use times as default font
 
 \ExecuteOptions{a4paper,12pt,oneside,onecolumn,final}
