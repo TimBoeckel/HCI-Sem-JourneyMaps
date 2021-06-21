@@ -33,6 +33,7 @@
 
 \usepackage{times}	
 \usepackage{float}
+\usepackage[nottoc]{tocbibind}
 %\usepackage{hyperref}		%use times as default font
 
 \ExecuteOptions{a4paper,12pt,oneside,onecolumn,final}
