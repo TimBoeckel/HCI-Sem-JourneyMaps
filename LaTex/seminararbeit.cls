@@ -28,12 +28,15 @@
 \ProcessOptions
 \LoadClass{article}
 
+
 \RequirePackage{graphicx}
 \RequirePackage{natbib}		%get all the fancy citation stuff
-
+\usepackage[utf8]{inputenc}
 \usepackage{times}	
 \usepackage{float}
 \usepackage{titlesec}
+\usepackage[ngerman]{babel}
+
 \usepackage[titles]{tocloft}
 %\usepackage{hyperref}		%use times as default font
 
